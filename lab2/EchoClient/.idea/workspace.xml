@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EchoClient:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1fdb57c-4f33-4bb3-8e6c-ac55a89dd0ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YaGwE8Q49jvRy1k3sMwyIbxKfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.urazem.client.Client" />
+      <module name="EchoClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.urazem.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14528593" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Application" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Application" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1fdb57c-4f33-4bb3-8e6c-ac55a89dd0ca" name="Default Changelist" comment="" />
+      <created>1583173527312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583173527312</updated>
+      <workItem from="1583173532980" duration="7000" />
+      <workItem from="1583174077124" duration="10239000" />
+      <workItem from="1583227890758" duration="9198000" />
+      <workItem from="1583314594348" duration="1546000" />
+      <workItem from="1583318240074" duration="1043000" />
+      <workItem from="1584891572870" duration="195000" />
+      <workItem from="1584989045012" duration="1129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583228261047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583228261047" />
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583174665894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1583174665894" />
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583243166838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583243166838" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1584891759806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584891759806" />
+    <state width="1105" height="300" key="GridCell.Tab.0.bottom" timestamp="1584990205376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1105" height="300" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584990205376" />
+    <state width="1105" height="300" key="GridCell.Tab.0.center" timestamp="1584990205375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1105" height="300" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584990205375" />
+    <state width="1105" height="300" key="GridCell.Tab.0.left" timestamp="1584990205375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1105" height="300" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584990205375" />
+    <state width="1105" height="300" key="GridCell.Tab.0.right" timestamp="1584990205376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1105" height="300" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584990205376" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583243168722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583243168722" />
+    <state x="65" y="60" key="new project wizard" timestamp="1583226226400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583226226400" />
+  </component>
+</project>
